@@ -1,0 +1,36 @@
+# Environment
+.env
+
+# Chroma vector store (rebuilt from docs)
+data/
+docs/*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.claude/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
